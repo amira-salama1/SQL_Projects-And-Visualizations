@@ -9,3 +9,8 @@ A full Data Describtion of the Data Variables is found in [owid Account](https:/
 *Credits and inspiration* :
 
 Some of the code is in the Youtube channel [Alex the Analyst](https://www.youtube.com/watch?v=qfyynHBFOsM)   
+
+
+*Tableau Puplic Link to Dashboard*:
+
+https://public.tableau.com/profile/amira.salama#!/vizhome/Covid_May6th/Dashboard1
