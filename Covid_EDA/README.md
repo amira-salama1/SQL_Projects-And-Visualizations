@@ -4,7 +4,7 @@
 
 *Data Describtion* :
 
-A full Data Describtion is found in [owid Account](https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-codebook.csv) codebook 
+A full Data Describtion of the Data Variables is found in [owid Account](https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-codebook.csv) codebook 
 
 *Credits and inspiration* :
 
