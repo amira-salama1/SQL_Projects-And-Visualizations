@@ -4,7 +4,8 @@ The Bay Area Bike Share enables quick, easy, and affordable bike trips around th
 
 Source:
 
-Kaggle
+[Kaggle](https://www.kaggle.com/benhamner/sf-bay-area-bike-share), 
+it's important to note that this database is in SQLite, when imported to MS SQL had some distorted Schema
 
 Content:
 
@@ -18,10 +19,13 @@ weather.csv - Data about the weather on a specific day for certain zip codes
 
 Queries Ideas:
 
-Some of the Queries are from /
+Code ideas and credits to :
+---------------------------
 
 https://www.kaggle.com/taricov/sql-snippets-bike-share-dataset
 
 https://www.bingyune.com/blog/bike-share-intermediate-sql
+
+https://www.bingyune.com/blog/bike-share-advanced-sql
 
 https://github.com/marycboardman/Bay-Area-Bike-Share
