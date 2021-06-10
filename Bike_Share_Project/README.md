@@ -29,3 +29,7 @@ https://www.bingyune.com/blog/bike-share-intermediate-sql
 https://www.bingyune.com/blog/bike-share-advanced-sql
 
 https://github.com/marycboardman/Bay-Area-Bike-Share
+
+- DataCamp  > SQL Intermediate Practice
+
+https://learn.datacamp.com/practice?technologies=SQL
