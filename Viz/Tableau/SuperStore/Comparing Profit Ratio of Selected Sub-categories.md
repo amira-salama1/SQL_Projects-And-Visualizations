@@ -5,4 +5,5 @@ Featuring Tableau's Dynamic Zone Visibility, this Dashboards shows three differe
 also a viz built within the line chart showing a bar chart of profit ratio of the selected Subcategory compared to all others and overall profit ratio.
 
 
-Link : 
+Link : https://public.tableau.com/views/ComparingProfitRatioofSelectedSub-Category/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
