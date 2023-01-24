@@ -1,6 +1,6 @@
 A KPI Dashboard created in Tableau :Top N Products Metrics in Sub Categories Vs All other Products in the Subcategory 
 
-* Featuring A table of Top N (Dynamic Number through a Parameter) Products Metrics (Sales , Profit & total orders)in Subcategories 
+* Featuring A table of Top N (Dynamic Number through a Parameter) Products Metrics (Sales , Profit & total orders)in Subcategories + all others summed up
 * Ordered by Profit Descendingly  
 
 
