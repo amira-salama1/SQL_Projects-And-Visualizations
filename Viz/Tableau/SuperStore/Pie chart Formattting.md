@@ -1,6 +1,6 @@
 Credits: WOW WEEK 49: Can you make a pie chart? |Challenge by | Luke Stanke
 
-Data source " Supeer store
+Data source " Super store
 
 This Pie Chart Features Sales by Segment and their percent from total 
 
