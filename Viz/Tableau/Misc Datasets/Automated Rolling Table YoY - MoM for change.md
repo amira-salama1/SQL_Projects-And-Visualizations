@@ -1,4 +1,4 @@
-A Table created in Tableau that shows the last 13 fully completed months based on the date with the last entries Featuring :
+A Table created in Tableau that shows the last 13 fully completed months based on the date with the last entries (Current Date) Featuring :
 * The Metric or KPI across different (Dimensions/Departments/Sections)
 * The Month over Month Change
 * The Year over year Change
