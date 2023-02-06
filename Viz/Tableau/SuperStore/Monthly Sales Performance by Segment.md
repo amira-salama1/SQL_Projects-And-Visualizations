@@ -1,6 +1,6 @@
 A KPI Dashboard created in Tableau :Monthly Sales Performance broken by Segment
 
-* Tracks daily changes in cumulative values (Current Month To Date ) versus a previous year same period
+* Tracks daily changes in cumulative values (Current Month To Date ) versus previous year same period
 * Filter down to Categories through a drop down list
 
 
