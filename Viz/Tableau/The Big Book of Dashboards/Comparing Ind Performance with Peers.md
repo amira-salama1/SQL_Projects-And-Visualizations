@@ -1,6 +1,6 @@
 Comparing Individual Performance with Peers
 
-DATA SOURCE: 
+DATA SOURCE: https://www.bigbookofdashboards.com/files/CH3_BBOD_Individual_vs_Peers.twbx
 
 Inspired by The Big Book of Dashboards Ch3
 
