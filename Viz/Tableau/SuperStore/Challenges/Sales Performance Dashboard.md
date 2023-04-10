@@ -3,8 +3,8 @@ Sales Performance
 #WorkoutWednesday2019 Week 51 – Sales Performance Dashboard
 
 This Dashboard features 
-- a weekly sales area chart to act as a header
-- a year filter
+- a weekly sales area-chart to act as a header
+- a year filter Chart
 - a marginal histogram with Month Year, Subcategory and Sales
 - a map with Sales that can be filtered on
 
