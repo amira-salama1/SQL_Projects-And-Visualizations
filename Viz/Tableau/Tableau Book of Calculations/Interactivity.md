@@ -1,4 +1,4 @@
-1- Interactivity by Using Set Actions instead of using the Filters:
+1- Interactivity (Proportional Brushing ) Using Set Actions instead of using the Filters:
 
 This dashboard features Proportional Brushing of a State's Sales (Clicked on through a map) Vs all Others % of Sales broken by Sub-Category
 
