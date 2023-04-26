@@ -1,1 +1,20 @@
 #WOW2023 week 16
+
+
+This Dashboard features an insightful Text table that includes:
+
+1- Sub-Categories Rank in Sales compared to all others
+
+2- Current Year - YTD Sales
+
+3- YOY Sales % change
+
+4- Profit Rank compared to all others
+
+5- Current Year Profit Value
+
+6- Change in profit (Bar Chart)
+
+7- Profit Ratio
+
+Link: https://public.tableau.com/app/profile/amira.salama/viz/InsightfultexttableWOWW16/Insightfultable
