@@ -18,3 +18,10 @@ This Dashboard features an insightful Text table that includes:
 7- Profit Ratio
 
 Link: https://public.tableau.com/app/profile/amira.salama/viz/InsightfultexttableWOWW16/Insightfultable
+
+
+
+Insightful Table 2 : this one filters By Sales or Profit:
+
+Link:https://public.tableau.com/app/profile/amira.salama/viz/Insightful_KPIs_Table2/KPIsTable
+
