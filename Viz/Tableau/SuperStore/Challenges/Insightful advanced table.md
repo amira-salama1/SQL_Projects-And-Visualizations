@@ -21,7 +21,7 @@ Link: https://public.tableau.com/app/profile/amira.salama/viz/Insightfultexttabl
 
 
 
-Insightful Table 2 : this one filters By Sales or Profit:
+Insightful Table 2 : this one has a parameter to select KPIs By Sales or Profit:
 
 Link:https://public.tableau.com/app/profile/amira.salama/viz/Insightful_KPIs_Table2/KPIsTable
 
