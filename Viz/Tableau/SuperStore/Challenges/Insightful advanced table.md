@@ -1,7 +1,7 @@
 [#WOW2023](https://workout-wednesday.com/2023w16tab/) week 16
 
 
-This Dashboard features an insightful Text table that includes:
+This Dashboard features an insightful Text table that includes the following KPIs :
 
 1- Sub-Categories Rank in Sales compared to all others
 
