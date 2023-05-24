@@ -1,1 +1,1 @@
-A folder dedicated to disfferent Projects Analysis
+A folder dedicated to different Projects Analysis
