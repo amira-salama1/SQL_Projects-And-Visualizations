@@ -8,4 +8,8 @@ The Google Fiber customer service team’s goal is to determine how often custom
 
 * Explore repeat caller trends in the three different market cities
 
-* Design charts so that stakeholders can view trends by week, month, quarter, and year. 
+* Design charts so that stakeholders can view trends by week, month, quarter, and year.
+
+Link to The my Dashboards / Story :
+
+https://public.tableau.com/app/profile/amira.salama/viz/Google_Fiber_Dash/Story1
