@@ -1,4 +1,4 @@
-#WOW Week 25
+[#WOW](https://workout-wednesday.com/2023w25tab/) Week 25 Challenge
 
 This Dashboard features the Moving Average percent change in Sales between two dates. (Using Superstore DS)
 
