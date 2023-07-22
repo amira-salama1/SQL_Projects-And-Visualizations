@@ -1,1 +1,1 @@
-Afolder dedicated to Financial Analysis & Reporting
+A folder dedicated to Financial Analysis & Reporting
