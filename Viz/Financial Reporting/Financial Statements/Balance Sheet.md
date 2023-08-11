@@ -1,4 +1,4 @@
-Historical Balance Sheet Statement + Some Common Fonancial Ratios:
+Historical Balance Sheet Statement + Some Common Financial Ratios:
 ![image](https://github.com/amira-salama1/SQL_Projects-And-Visualizations/assets/72136621/6689ba0f-dd01-488c-8a38-1afb41e6e853)
 
 
