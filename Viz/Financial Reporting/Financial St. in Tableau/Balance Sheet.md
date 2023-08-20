@@ -9,6 +9,9 @@
     - Last Quarter Vs Preious Year Same Quarter
     - Current Year to Date Vs Previous Year to Date
 
+ 2- A Dashboard for some common Financial Ratio Analysis:
+   - With the same Period Comparisons as above
+ 
   [Link](https://public.tableau.com/app/profile/amira.salama/viz/BalanceSheetAnalysis_16921330444120/BSFactsDash) in Tableau Public
 
 
