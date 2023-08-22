@@ -10,10 +10,13 @@
     - Current Year to Date Vs Previous Year to Date
 
  2- A Dashboard for some common Financial Ratio Analysis:
+   - Current Ratio/Debt Ratio/Working Capital/ Assets to Equity Ratio and Debt to Equity Ratio 
    - With the same Period Comparisons as above
  
   [Link](https://public.tableau.com/app/profile/amira.salama/viz/BalanceSheetAnalysis_16921330444120/BSFactsDash) in Tableau Public
 
+  3- A Dashboard Featuring a Bullet Graph of Balance Sheet Items values of the Current period represented by Bars and Bullets Representing Previous Period
+    according to the Parameter Chosen
 
 
   Credits:
