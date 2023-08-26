@@ -20,6 +20,7 @@
 
   4- A Dashboard Featuring a Bar Graph of Balance Sheet Item values of the Current period according to the Parameter Chosen & each expanded sub-category % of Total (E.G. Cash& Cash Equivalents % of Current Assets).
 
+ 5- Waterfall dashboard representing short-term Balance items (Current Assets & current liabilities) + Working capital for current period vs prior period according to the parameter chosen.
 
   Credits:
   
