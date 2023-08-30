@@ -1,4 +1,4 @@
-  This is an Ongoing Project still
+ 
 
   Balance Sheet Statement:
   
