@@ -1,7 +1,15 @@
 #WOW2023 | Week 35 | Can you build an interactive Viz in Tooltip?
 
 
-An interesting Project :
+An interesting Project :posted by Donna Coles in the weekly Tableau WOW challenge.
+
+
+however my thoughts are:
+
+* I think this was a very good practice for exploring tooltips in Tableau, with the filter tag to exclude filtering on all sheets, also to explore the width and height of every sheet stacked over each other
+
+* caveats are, although you can see a bar chart that would break the sales of every category by month, hovering over the chart would not render the value for each bar, this is a static state in an interactive tooltip, as the challenge proposes.
+
 
 
 
