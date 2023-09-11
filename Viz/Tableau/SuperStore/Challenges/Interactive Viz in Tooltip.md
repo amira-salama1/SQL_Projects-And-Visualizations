@@ -1,8 +1,8 @@
 #WOW2023 | Week 35 | Can you build an interactive Viz in Tooltip?
 
 
-An interesting Project :posted by Donna Coles in the weekly Tableau WOW challenge.
-
+An interesting Project : posted by Donna Coles in the weekly Tableau [WOW](https://workout-wednesday.com/2023w35tab/) challenge
+that demonstrated the concept of an interactive Viz In Tooltip (VIT)
 
 however my thoughts are:
 
