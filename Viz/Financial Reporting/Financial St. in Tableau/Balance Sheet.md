@@ -2,7 +2,7 @@
 
   Balance Sheet Statement:
   
-  This Workbook Features: 4 Main Dashboards + Home Page for All Historical Facts (with Navigations)
+  This Workbook Features: 4 Main Dashboards + Home Page for All Balance sheet Historical Facts (with Navigations to other Dashboards of Current/Previous Periods)
 
 1- A Dashboard for Balance Sheet Facts with a dynamic Period Comparisons + Financial Ratio Analysis:
 
