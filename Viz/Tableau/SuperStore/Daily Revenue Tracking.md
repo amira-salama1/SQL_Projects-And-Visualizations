@@ -13,5 +13,10 @@ This Dashboard Features KPIs of the Current Year:
 also a bar chart below each KPI with a reference line to benchmark against prior Period To date with the % difference.
 
 Link to my Tableau Public Dashboard : 
+
 https://public.tableau.com/app/profile/amira.salama/viz/SalesDailyTracking/SalesDailyTracking
+
+Inspiration : Daily Sales Report By Andy Kriebel
+
+https://public.tableau.com/app/profile/andy.kriebel/viz/DailySalesReportYTD-QTD-MTD-WTD-TODAY/DailySales
 
