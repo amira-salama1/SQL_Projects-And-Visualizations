@@ -7,7 +7,7 @@
 1- A Dashboard of Balance Sheet Facts with a dynamic Period Comparisons + Financial Ratio Analysis:
 
 - Last Quarter Vs The Previous Quarter
-- Last Quarter Vs Preious Year Same Quarter
+- Last Quarter Vs Previous Year Same Quarter
 - Current Year to Date Vs Previous Year to Date
 
 Financial Ratio:
