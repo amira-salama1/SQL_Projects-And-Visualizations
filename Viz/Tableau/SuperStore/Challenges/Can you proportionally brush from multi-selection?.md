@@ -6,7 +6,7 @@ Kyle Yetter : This week’s challenge is another inspired by my everyday work. A
 
 What is Awesome about this Viz:
 
-In my opinion is the fuctionality & that's inspired by a real project.
+In my opinion is the functionality the Dashboard offers & that's inspired by a real project.
 Also in Kyle Yetter workbook, the Calculations are Simple and straight forward
 
 Challenge is for me: the Breadcrumb Label Calculation
