@@ -11,6 +11,9 @@ Also a supporting Tutorial [Link](https://rosariogaunag.wordpress.com/2023/09/05
 * Customize the shading of the Subtotals rows.
 * Add lines between the rows of the P&L.
 
+**What is Awesome about this Viz:**
+Sure all the above points, also a trick that was used to constrain Table Ratio (in tha Analysis Menu > Table Layout), the trick is to use a numeric Axis, Vs other Data types (Date Axis was Used) to See the Whole text of  the Categories in the P&L St.
+
 [Link](https://public.tableau.com/app/profile/amira.salama/viz/ProfitLossStatement_16965293190250/PLDash?publish=yes) to my Tableau Dashboard
 
 
