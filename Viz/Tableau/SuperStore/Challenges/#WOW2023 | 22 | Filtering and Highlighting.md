@@ -1,4 +1,4 @@
-#WOW2023 | 22 | Filtering and Highlighting
+[#WOW2023](https://workout-wednesday.com/2023w22tab/) | 22 | Filtering and Highlighting
 
 Create a dashboard that shows KPIs and a trend of the selected kpi (KPI can be selected through clicking on the KPI). Allow the user to filter dates, change the period type and select a period within that type. The selected period values should be shown in KPIs vs total as well as highlighted on the trend chart.
 
