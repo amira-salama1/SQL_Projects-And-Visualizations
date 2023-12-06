@@ -1,4 +1,4 @@
-[#WOW2023](https://workout-wednesday.com/2023w22tab/) | 22 | Filtering and Highlighting
+[#WOW2023](https://workout-wednesday.com/2023w22tab/) | W22 | Filtering and Highlighting
 
 Create a dashboard that shows KPIs and a trend of the selected KPI 
 (KPI can be selected through clicking on the KPI e.g Show Sales Trend line according to the Date frame selected). 
