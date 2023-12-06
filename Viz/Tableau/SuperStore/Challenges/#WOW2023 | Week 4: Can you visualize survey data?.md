@@ -10,4 +10,3 @@ What is awesome about this Viz:
 
 Measuring NPS score by categorizing the question and response accordingly.
 
-What's tricky/Challenging :
