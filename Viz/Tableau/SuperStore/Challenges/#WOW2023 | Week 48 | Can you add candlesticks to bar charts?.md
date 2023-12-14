@@ -14,8 +14,8 @@ Specs:
 * Color: as you like
 
 What's Awesome about this Viz:
-  * The Bar chart represents the Values (Given a selected KPI ad a given selected year), the Candlestick represents the YOY difference with percentages & increments
-  it's easy to view and understand and also elegant and cluttery.
+  * The Bar chart represents the Values (Given a selected KPI and a given selected year), the Candlestick represents the YOY difference with percentages & increments
+  it's easy to view and understand and also elegant and not cluttery.
   *  A trick to use an existing dimension in the Dataset instead of adding an additional Dataset to create the Buttons
 
 Inspiration : Andy Kriebel's [Tutorial](https://youtube.com/watch?v=PcHeWx4Yc3Q) How to Create a Combination Bar Chart & Candlestick Chart
