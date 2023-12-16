@@ -10,7 +10,7 @@ Specs:
  *** Note: When you click on a mark in the selector sheets, the mark should NOT remain selected
 * Match labels and tooltips
  **Note: If the signs of the two year values are different, the difference % should be represented as “-“.
-* NO additional datasets
+* No additional datasets
 * Color: as you like
 
 What's Awesome about this Viz:
