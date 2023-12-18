@@ -1,7 +1,7 @@
 WOW2023 | Week 48 | Can you add candlesticks to bar charts?
 
 
-Create a combination of bar charts and candles.
+Create a combination of bar charts and candles in one Chart/View.
 
 Specs:
 * Create bar charts by Sub-Category displaying selected measure of the latest year(current year) and selected year
