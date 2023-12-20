@@ -5,8 +5,7 @@ Compare 2 years of Superstore data, but our focus will be on Monthly Sales / Pro
 
 what is awesome about this viz: 
 
-* First of all It's a project
-* Inspired by real life  Customer's Demands
+* First of all It's a project inspired by real life  Customer's Demands.
 * It would typically take a bit of time and calculations to get to the final Viz.
 * It leverages the use of parameter actions and jumping between home page for a summary view and drilling into details page for further info.
 
