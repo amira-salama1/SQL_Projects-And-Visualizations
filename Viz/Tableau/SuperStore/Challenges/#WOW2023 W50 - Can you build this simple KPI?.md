@@ -14,6 +14,13 @@ Requirements:
 
 I added A dynamic Measure also to choose between Sales, Profit or Quantity
 
+What is awesome about the Viz:
+
+* The Use of LODs to go beyond the filter (as the Data is limited to 24 full months of Data).
+* It's simplicity as a one view to see also and compare performance in the past year. 
+
+Inspiration :[HipsterVizNinja](https://www.youtube.com/watch?v=Ssse1Ueto2E&ab_channel=HipsterVizNinja)
+
 [Link](https://public.tableau.com/app/profile/amira.salama/viz/WOW2023W50CanyoubuildthissimpleKPI_17035213598530/WOW23W50KPI) to my Dashboard
 
 
