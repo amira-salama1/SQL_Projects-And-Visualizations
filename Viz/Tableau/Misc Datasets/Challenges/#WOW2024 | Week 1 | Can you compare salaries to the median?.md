@@ -6,7 +6,22 @@ Along with this, a salary scale determines how close that employee is to the med
 
 What is awesome about this Viz:
 * Ability to compare an Employee's salary to the Median within their cohort quickly with just a look at the View.
-* The Tootltip provides more details & insights about the Pay, its percentage of the median and which number on the Salary scale
+* The Tooltip provides more details & insights about the Pay, its percentage of the median and which number on the Salary scale
+
+  The Salary Scale is a number from 1 to 6 :
+  
+1 : Salary is less than 80% of Median
+  
+2 : Salary is between 80-90% of Median
+
+3 : Salary is between 90-100% of Median
+
+4 : Salary is between 100-110% of Median
+
+5 : Salary is between 110-120% of Median
+
+6 : Salary is more than 120% of Median
+
 
 [Week 1](https://workout-wednesday.com/2024w01tab/) in Workout Wednesday
 
