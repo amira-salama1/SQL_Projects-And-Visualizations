@@ -1,4 +1,4 @@
-This  project is Based on the Blog post by [Ken Flerlage](https://www.flerlagetwins.com/2023/08/custom-filters.html) Customize Your Tableau Filters
+This  project is Based on the Blog post by [Ken Flerlage](https://www.flerlagetwins.com/2023/08/custom-filters.html) "Customize Your Tableau Filters"
 
 The blog post discusses how to take Tableau filters to the next level, or add more UI options and functionality
 
