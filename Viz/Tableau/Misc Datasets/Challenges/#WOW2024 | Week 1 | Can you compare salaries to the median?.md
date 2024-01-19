@@ -1,3 +1,5 @@
+[Week 1](https://workout-wednesday.com/2024w01tab/) in Workout Wednesday
+
 #WOW2024 | Week 1 | Can you compare salaries to the median?
 
 This visualisation compares an employee’s actual salary against the median salary of all employees with the same pay level (cohort). 
@@ -21,8 +23,5 @@ What is awesome about this Viz:
 5 : Salary is between 110-120% of Median
 
 6 : Salary is more than 120% of Median
-
-
-[Week 1](https://workout-wednesday.com/2024w01tab/) in Workout Wednesday
 
 [Link](https://public.tableau.com/app/profile/amira.salama/viz/WOW2024W1Canyoucomparesalariestothemedian_17044831353640/WOW2024Week1Canyoucomparesalariestothemedian) to my Dahsboard
