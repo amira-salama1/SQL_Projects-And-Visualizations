@@ -12,4 +12,10 @@ Requirements:
 **Sales
 * Bringing it all together: The end user should be able to select a City on the main map to bring up a view that displays the mini-map and the Table, with a Title that reflects which City was selected. They should then have the option to close this view and return to the main map
 
+What is awesome about this Viz:
+
+Like the author said, the fun is in the Details, 
+  * In the Customer's Details Sheet, You get to un-include one of the dimensions in the Sub-Total, this feature is available in Tableau Desktop, but not in the Server Version.
+  * The Dynamic Zone Visibilty in this Dashboard uses a sheet to return back to the Map
+    
 [Link](https://public.tableau.com/app/profile/amira.salama/viz/WOW2024W5-DynamicZoneVisibility/WOW2024W5) to my Dashboard
