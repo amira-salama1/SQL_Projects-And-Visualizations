@@ -5,3 +5,4 @@
 
 What is Awesome about this Viz:
 * Parameter Actions with Contain (Function), that can accommodate multiple selections 
+* The simplicity of the calculations that are straight forward and go beyond expectations.
