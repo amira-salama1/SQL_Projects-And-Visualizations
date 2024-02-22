@@ -1,0 +1,9 @@
+[#WOW](https://bi.envaseconnect.cloud/#/site/EnvaseCustomerDiagnostics/home)
+
+Requirements
+* 800 x 800
+* Allow the user to select a month value
+* Allow the user to select a top n value
+* Display a bar chart showing ascending Sales variance from previous month by state for the selected month
+* No LODs
+* BONUS – Can you solve this challenge WITHOUT using sets? 
