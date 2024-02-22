@@ -6,4 +6,8 @@ Requirements
 * Allow the user to select a top n value
 * Display a bar chart showing ascending Sales variance from previous month by state for the selected month
 * No LODs
-* BONUS – Can you solve this challenge WITHOUT using sets? 
+* BONUS – Can you solve this challenge WITHOUT using sets?
+
+[link](https://public.tableau.com/app/profile/amira.salama/viz/WOW202406TopBottomVariance_17084673153100/WOW202406TopBottomVariance)
+
+
