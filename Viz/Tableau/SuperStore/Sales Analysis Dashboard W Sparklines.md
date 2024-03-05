@@ -1,4 +1,4 @@
-Sparklines & KPIs In One sheet
+Sparklines & KPIs Dashboard In One sheet
 
 [Link](https://public.tableau.com/app/profile/amira.salama/viz/SalesAnalysisWSparklines/ByCat) to my Dashboard
 
