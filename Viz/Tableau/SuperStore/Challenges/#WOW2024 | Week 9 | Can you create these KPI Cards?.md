@@ -3,5 +3,8 @@
 
 Test your Table Calculation Skills and Order of Operations knowledge.
 
+What is awesome about this Viz.
+* Manipulating Table calculations as an alternative to LODs calculations, with Windows_Max
+
 
 [Link](https://public.tableau.com/app/profile/amira.salama/viz/WOWW09CanyoucreatetheseKPICards/WOW2024W09) to my Dashboard
