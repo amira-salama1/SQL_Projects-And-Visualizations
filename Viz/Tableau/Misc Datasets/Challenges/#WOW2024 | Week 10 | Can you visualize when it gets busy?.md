@@ -1,3 +1,3 @@
 Work in progress ... 
 
-[#WOW |W10 ](https://workout-wednesday.com/2024w10tab/) Can you visualize when it gets busy?.
+[#WOW2024 |W10 ](https://workout-wednesday.com/2024w10tab/) Can you visualize when it gets busy?.
