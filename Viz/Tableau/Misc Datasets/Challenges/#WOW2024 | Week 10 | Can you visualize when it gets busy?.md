@@ -9,7 +9,8 @@ What is Awesome about this Viz:
 * For starter it includes alot of challenges in one challenge.
 * It Uses Data Densfication to count patients in the interim ranges (between 6:00 and 6:30 🕣 for example and then if the patient was still waiting, then they should be included in the next time range)
 * The calculation done to create the relation between the main Data Source and the other data source with time ranges.
-
+* To visualize the time intervals we need to combine all the dates in one, this was a new 
+experience for me 
 
 I should also refer to Donna Coles [Blog](https://donnacoles.home.blog/2024/03/07/can-you-visualise-when-it-gets-busy/), because I used her post to help me understand the Calculations.
 
