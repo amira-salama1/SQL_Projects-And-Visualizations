@@ -12,7 +12,7 @@ What is Awesome about this Viz:
 * To visualize the time intervals we need to combine all the dates in one, this was a new 
 experience for me and its being demonstrated in that blog [post](https://kb.tableau.com/articles/howto/isolate-time-from-date-and-time-field) 
 
-I should also refer to Donna Coles [Blog](https://donnacoles.home.blog/2024/03/07/can-you-visualise-when-it-gets-busy/), because I used her post to help me understand the Calculations.
+I should also refer to Donna Coles' [Blog](https://donnacoles.home.blog/2024/03/07/can-you-visualise-when-it-gets-busy/), because I used her post to help me understand the Calculations.
 
 
 [Link](https://public.tableau.com/app/profile/amira.salama/viz/WOW2024W10Canyouvisualizewhenitgetsbusy_17114888554700/WOW2024W10) to my Dashboard
