@@ -1,4 +1,4 @@
-WIP
+Work in Progress
 
 https://workout-wednesday.com/2024w15tab/
 
