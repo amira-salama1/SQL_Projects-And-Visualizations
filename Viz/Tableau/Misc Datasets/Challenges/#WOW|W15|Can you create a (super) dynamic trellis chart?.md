@@ -1,4 +1,4 @@
-Work in Progress
+Work in Progress ...
 
 This challenge Features a Trellis Chart  and the use of Table Calculations:
 
