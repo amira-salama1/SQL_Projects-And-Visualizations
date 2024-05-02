@@ -1,6 +1,6 @@
 Work in Progress ...
 
-This challenge Features a Trellis Chart  and the use of Table Calculations:
+This challenge Features a Trellis Chart  and the use of Table Calculations, as the post mentioned that this challenge is a bit tough.
 
 Requirements
 * 1200×700
