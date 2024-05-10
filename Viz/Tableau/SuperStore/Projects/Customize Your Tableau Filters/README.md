@@ -2,4 +2,4 @@ This  project is Based on the Blog post by [Ken Flerlage](https://www.flerlagetw
 
 The blog post discusses how to take Tableau filters to the next level, or add more UI options and functionality.
 
-I also try to Mimic [Rosario Gauna](https://rosariogaunag.wordpress.com/2023/12/12/part-1-hierarchical-selection-menus-ux-ui/) a Tableau Visionary & Tableau Public Ambassador, dashboards where She also takes that blog post sugestions to the next level.
+I also try to Mimic [Rosario Gauna](https://rosariogaunag.wordpress.com/2023/12/12/part-1-hierarchical-selection-menus-ux-ui/) a Tableau Visionary & Tableau Public Ambassador, dashboards where She also takes that blog post suggestions to the next level.
