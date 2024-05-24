@@ -2,7 +2,7 @@ WIP ...
 
 [WOW Challenge](https://workout-wednesday.com/2024w20tab/) #WOW2024 | Week 20 | Can you combine categorical and sequential colors in the same chart?
 
-I took Kyle's Idea, may be changed the formula a bit, but I thought the idea was really great and straight forward, without creating two color legends instead combining both in one expression.
+I took Kyle's Idea, may be changed the formula a bit, but I thought the idea was really great and straight forward, without creating two color legends, but instead combining both in one expression.
 
 
 What I think is Awesome about this Viz:
