@@ -1,3 +1,3 @@
 # SQL_Projects
 
-Exploratory Data Analysis with SQL, Dashboards & visualizations of Challenges or Projects posted online.
+Exploratory Data Analysis with SQL, Dashboards & Visualizations of Challenges or Projects posted online.
