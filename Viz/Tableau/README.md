@@ -1,1 +1,1 @@
-Exploring/Implementing Different Data sets Dashboards in Tableau
+Exploring & Implementing Different Data sets Challenges or inspirations in Tableau
