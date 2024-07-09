@@ -10,6 +10,7 @@ Requirements:
 * No scaffolding or secondary datasets
 
 What's awesome about this Viz:
-* A trick used to stop the slices of the Donut/Pie Chart from appearing, this trick uses "A Dummy" Sheet, with a Polygon mark places as a floating opject in the dashboard, that will stop the donut slices from appearing. 
+* A trick used to stop the slices of the Donut/Pie Chart from appearing, this trick uses a "Dummy" Sheet, with a Polygon mark placed as a floating opject in the dashboard, that will stop the donut slices from appearing.
+* The Filter action Trick taht uses True/False Values to stop the donut sheet from highlighting. 
 
 [Link](https://public.tableau.com/app/profile/amira.salama/viz/WOW2024W26Canyoufilteradonutwithouthighlightingthepie/WOW2024W26#1) to my Viz
