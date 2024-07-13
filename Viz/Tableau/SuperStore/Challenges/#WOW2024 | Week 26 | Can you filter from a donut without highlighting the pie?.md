@@ -1,5 +1,5 @@
 
-This Week's [WOW](https://workout-wednesday.com/2024w26tab/) Challenge Kyle created a Donut chart that doesn't highlight when clicked on, 
+This Week's [WOW](https://workout-wednesday.com/2024w26tab/) Challenge Kyle, created a Donut chart that doesn't highlight when clicked on, 
 
 Requirements:
 * Create a donut chart showing Sales by Category, with a label of total sales inside the donut
