@@ -10,3 +10,10 @@ Create a summarized table to get the count of each product per Order
   
      AVERAGEX(SUMMARIZE(Orders, Orders[OrderID], "Count ProductID", COUNTA(Products[ProductID])), 
     [Count ProductID])
+
+
+Day 7 : What is the Value ($) for the unshipped Orders ?
+
+Solution:
+
+Unshipped Orders Value = CALCULATE([Total sales], ISBLANK(Orders[ShippedDate]))
