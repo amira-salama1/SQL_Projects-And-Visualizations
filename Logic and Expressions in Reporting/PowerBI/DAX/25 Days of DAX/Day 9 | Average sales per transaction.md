@@ -8,7 +8,7 @@ Average Order Value For Specific Customer =
 
 CALCULATE(
 
-  AVERAGEX(VALUES(Orders[OrderID]), [Total sales]), LEFT(Customers[CompanyName] ,6) = "Romero" )
+  AVERAGEX(VALUES(Orders[OrderID]), [Total sales]), LEFT(Customers[CompanyName] ,6) = "Romero" )  
 
 
 
