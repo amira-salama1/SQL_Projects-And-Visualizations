@@ -1,7 +1,7 @@
 
 Day 13 | How many lost customers/ Inactive customers in the Current year?
 
-  So, our flag here or criteria, is to calculate the latest purchase date, thenn filter on that to get the Inactive customers in the current year!
+  So, our flag here or criteria, is to calculate the latest purchase date, then filter on that to get the Count of Inactive customers in the current year!
 
 D13_Lost_Customers = 
 
