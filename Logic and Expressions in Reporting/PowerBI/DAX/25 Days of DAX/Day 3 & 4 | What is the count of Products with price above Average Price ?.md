@@ -8,4 +8,4 @@ AVERAGE(Products[UnitPrice])
 
 Products above Avg Price = 
 
-CALCULATE(COUNTROWS(Products), FILTER(Products, [UnitPrice] > AVERAGE(Products[UnitPrice]) ))
+    CALCULATE(COUNTROWS(Products), FILTER(Products, [UnitPrice] > AVERAGE(Products[UnitPrice]) ))
