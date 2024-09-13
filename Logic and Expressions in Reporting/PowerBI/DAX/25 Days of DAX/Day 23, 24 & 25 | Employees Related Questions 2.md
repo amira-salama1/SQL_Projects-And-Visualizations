@@ -21,3 +21,10 @@ D24 EMP Count with Sales > 100 K =
      RETURN
 
     FILTER(Sales_table, [TotalSalesByEMP] > 100000))
+
+
+D25 How many Empl Hired in a specific year = 
+
+        CALCULATE( 
+                
+                COUNTROWS(Employees) , YEAR(Employees[HireDate]) = 1994) //Countrows is faster than any count function
