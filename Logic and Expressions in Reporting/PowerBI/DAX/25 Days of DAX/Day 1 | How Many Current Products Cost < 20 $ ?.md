@@ -6,5 +6,10 @@ OK, So Current products means that the Products is **NOT** Discountinued, also t
 
 Solution: 
 DAX
-CurrentProducts = CALCULATE(DISTINCTCOUNT(Products[ProductID]) , FILTER(Products, Products[Unit Price] < 20 && Products[Discontinued] = FALSE())  )
+
+    CurrentProducts = 
+    
+        CALCULATE(DISTINCTCOUNT(Products[ProductID]) , 
+        
+            FILTER(Products, Products[Unit Price] < 20 && Products[Discontinued] = FALSE())  )
 
