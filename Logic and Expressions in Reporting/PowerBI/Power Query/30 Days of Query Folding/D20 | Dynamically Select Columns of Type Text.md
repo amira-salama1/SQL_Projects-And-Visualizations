@@ -1,4 +1,4 @@
-D20 | Dynamically select Columns of Type Text
+D20 | Dynamically select Columns of Type "Text"
 
      let
       Source = Sql.Databases("ASALAMA\MSSQLSERVER01"),
