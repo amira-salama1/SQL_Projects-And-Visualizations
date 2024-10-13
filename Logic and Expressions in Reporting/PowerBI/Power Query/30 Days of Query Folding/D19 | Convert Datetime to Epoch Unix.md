@@ -1,3 +1,4 @@
+Day 19:
 
 Database: AdventureWorksDW2017 
 
