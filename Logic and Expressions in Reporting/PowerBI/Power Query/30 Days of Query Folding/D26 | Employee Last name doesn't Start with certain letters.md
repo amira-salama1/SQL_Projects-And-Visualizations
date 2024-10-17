@@ -1,6 +1,6 @@
 D26:
 
-    let
+    let  
         Source = Sql.Databases("ASALAMA\MSSQLSERVER01"),
         AdventureWorksDW2017 = Source{[Name="AdventureWorksDW2017"]}[Data],
         dbo_DimEmployee = AdventureWorksDW2017{[Schema="dbo",Item="DimEmployee"]}[Data],
