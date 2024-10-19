@@ -1,4 +1,5 @@
-D26:
+D26: 
+Select some columns where Employee Last name doesn't start with (A to E)
 
     let  
         Source = Sql.Databases("ASALAMA\MSSQLSERVER01"),
@@ -14,3 +15,9 @@ D26:
              = false)
     in
         #"Filtered Rows"
+
+A better Approach than writing each letter, if the letters are in a row:
+
+    List.Select(
+		dbo_DimEmployee[LastName], 
+		each not List.Contains({"A".."E"}, Text.Start(_, 1))
