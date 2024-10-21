@@ -16,7 +16,7 @@ Select some columns where Employee Last name doesn't start with (A to E)
     in
         #"Filtered Rows"
 
-A better Approach than writing each letter, if the letters are in a row:
+A better Approach than writing each letter, if the letters are in a row (This one from the Author of the challenge)
 
     List.Select(
 		dbo_DimEmployee[LastName], 
