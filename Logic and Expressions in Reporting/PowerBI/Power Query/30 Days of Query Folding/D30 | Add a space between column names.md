@@ -1,5 +1,5 @@
 
-
+D30 : The column names are typed using the camel case for column name, so the query here will be separating the names for each column, based on Capital Letters.
 
     let
     	Source = Sql.Databases("ASALAMA\MSSQLSERVER01"),
