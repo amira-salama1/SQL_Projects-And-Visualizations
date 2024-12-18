@@ -4,7 +4,7 @@ This Folder is for the projects submitted in the Specialization course by Cloude
 The Specialization included 3 courses:
 
 1- Foundations for Big Data Analysis with SQL
-
+ (With IMPALA & HIVE SQL)
 2- Analyzing Big Data with SQL
 
 3- Managing Big Data in Clusters and Cloud Storage
