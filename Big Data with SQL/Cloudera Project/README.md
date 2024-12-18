@@ -1,10 +1,10 @@
 This Folder is for the projects submitted in the Specialization course by Cloudera
 [Modern Big Data Analysis with SQL Specialization](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql)
 
-The Specialization included 3 courses:
+The Specialization included 3 SQL courses(With IMPALA & HIVE SQL):
 
 1- Foundations for Big Data Analysis with SQL
- (With IMPALA & HIVE SQL)
+ 
 2- Analyzing Big Data with SQL
 
 3- Managing Big Data in Clusters and Cloud Storage
