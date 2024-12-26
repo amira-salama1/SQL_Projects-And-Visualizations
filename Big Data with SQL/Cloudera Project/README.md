@@ -1,7 +1,7 @@
 This Folder is for the projects submitted in the Specialization course by Cloudera
 [Modern Big Data Analysis with SQL Specialization](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) :
 
-The Specialization included 3 SQL courses (with IMPALA & HIVE SQL): the Course also provides a web interface (HUE) via a virtual machine that would enable  writing CLI & querying the system via HUE 
+The Specialization included 3 SQL courses (with IMPALA & HIVE SQL): the Course also provides a web interface (HUE) via a virtual machine that would enable  writing CLI & querying the tables  
 
 1- Foundations for Big Data Analysis with SQL
  
