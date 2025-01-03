@@ -1,5 +1,7 @@
 [#WOW2024](https://workout-wednesday.com/2024w51tab/) | Week 51 | Filter for One Value OR All Others
 
+[Link](https://public.tableau.com/app/profile/amira.salama/viz/WOW2024W51_17357350988290/WOW2024W51) to my Dashboard V1
+
 Version 1
 - 1 sheet
 - Create a bar chart of Sales by Region and Category
@@ -11,4 +13,3 @@ Version 1
 
   If ‘Not West’ is selected, then a second ‘filter’ should appear to allow the user to select which regions they want to view from the three that remain (Central, East, South)
   
-HINT: If you completed #WOW2023 Week 9 then this uses a simillar logic. If you want to check out that solution, I recommend Rosario Gauna’s which you can download from here
