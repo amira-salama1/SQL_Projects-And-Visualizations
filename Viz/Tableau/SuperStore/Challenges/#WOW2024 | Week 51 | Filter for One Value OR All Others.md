@@ -12,4 +12,8 @@ Version 1
    If ‘West’ is selected then only the West region should be displayed in the bar chart
 
   If ‘Not West’ is selected, then a second ‘filter’ should appear to allow the user to select which regions they want to view from the three that remain (Central, East, South)
+
+
+Version 2:
+  
   
