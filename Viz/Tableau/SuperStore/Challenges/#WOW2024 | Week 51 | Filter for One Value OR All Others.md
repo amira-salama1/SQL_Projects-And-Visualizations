@@ -16,4 +16,15 @@ Version 1
 
 Version 2:
   
-  
+  - Same Visual
+  - Create a custom filter to allow the user to select which regions they want to see.
+    
+   If ‘West’ is selected then only the West region should be displayed in the bar chart. 
+   
+   In addition, the custom filter ‘radio button’ should only be filled for the ‘West’ region.
+   
+   If any other region is selected (Central, East or South) then the ‘radio button’ for ‘West’ should automatically be turn off 
+   
+   and users should be able to select and deselect from the three remaining regions. 
+   
+   The regions displayed in the bar chart should match the selection in the in the custom filter.
