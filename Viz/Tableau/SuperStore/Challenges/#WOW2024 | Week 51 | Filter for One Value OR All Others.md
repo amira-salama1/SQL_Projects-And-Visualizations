@@ -28,3 +28,5 @@ Version 2:
    and users should be able to select and deselect from the three remaining regions. 
    
    The regions displayed in the bar chart should match the selection in the in the custom filter.
+
+So for the Second challenge I followed the steps from [Donna + DataViz](https://donnacoles.home.blog/2024/12/19/filter-for-one-value-or-all-others/) blog to get it right, there was a similar post for a dynamic filter list done by [Rosario Gauna](https://rosariogaunag.wordpress.com/2023/12/13/part-2-hierarchical-selection-menus-ux-ui/) should definitely check that out
