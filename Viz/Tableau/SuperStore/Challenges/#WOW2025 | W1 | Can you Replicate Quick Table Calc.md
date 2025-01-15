@@ -17,3 +17,7 @@ Requirements:
   
 [Link](https://public.tableau.com/app/profile/amira.salama/viz/WOW2025W1Canyoureplicatequicktablecalcs/WOW2025W1) to My Tableau Dashboard
 
+What's awesome about this Viz:
+ * In my opinion it's simple & straight forward
+ * It encourages to look for other ways to get the same results not depending entirely on ready-made functions in Tableau
+
