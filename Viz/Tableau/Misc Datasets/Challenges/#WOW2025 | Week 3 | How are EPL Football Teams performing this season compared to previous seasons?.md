@@ -4,4 +4,7 @@
 
 [Link](https://public.tableau.com/app/profile/amira.salama/viz/WOW2025W3_17374924103560/WOW2025W3) to my Viz
 
+What is Awesome about this Viz:
+
+* Using Previous Value (Lookup function) in Tableau to flag the Row to capture the Value.
 
