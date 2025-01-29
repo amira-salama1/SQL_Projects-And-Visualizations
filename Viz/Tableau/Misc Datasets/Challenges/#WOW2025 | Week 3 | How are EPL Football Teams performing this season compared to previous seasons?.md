@@ -4,7 +4,7 @@ So This Challenge by Donna Coles, is a 3 level Challenge for Beginners, Intermed
 
 What is Awesome about this Viz:
 * First off, I love football and was psyched to do this challenge for that
-* Using Previous Value (Lookup function) in Tableau to flag the desired Row, to capture the Value.
+* Using Previous Value (Lookup function in Tableau) to flag the desired Row, to capture the Value.
 * At a glance you can compare current & past performances.
 
 [Link](https://public.tableau.com/app/profile/amira.salama/viz/WOW2025W3_17374924103560/WOW2025W3) to my Viz
