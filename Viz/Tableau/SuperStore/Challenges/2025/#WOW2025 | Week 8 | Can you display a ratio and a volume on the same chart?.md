@@ -5,6 +5,8 @@ This week’s challenge is to recreate a solution to the problem of visualizing 
 
 * the dual-axis dot plot and bar chart, or Ratio And Volume Ensemble (RAVE)
 
+I thought that was a straight forward chart, no complicated calculations 
+
 
 [Link](https://public.tableau.com/app/profile/amira.salama/viz/WOW2025Week8Canyoudisplayaratioandavolumeonthesamechart_17404324914930/WOW2025W8) to my Dashboard
 
