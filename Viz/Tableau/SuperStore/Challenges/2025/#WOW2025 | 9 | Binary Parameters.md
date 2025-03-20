@@ -11,4 +11,4 @@ Dashboard Requirements:
     * When a mark in bucket 1 is clicked it moves to bucket 0.
 
 Note, if a mark is already selected, it might require an extra click!
-This build involves one string parameter, with no sets or groups.
+This build involves one string parameter, with no sets or groups. 
