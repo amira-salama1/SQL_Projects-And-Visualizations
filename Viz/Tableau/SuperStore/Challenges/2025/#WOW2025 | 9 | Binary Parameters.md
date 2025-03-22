@@ -13,5 +13,9 @@ Dashboard Requirements:
 Note, if a mark is already selected, it might require an extra click!
 This build involves one string parameter, with no sets or groups. 
 
+What is awesome about this Viz
+
+  * The Idea of adding/removing values using a binary Parameter in Tableau 
+
 
 [LINK](https://public.tableau.com/app/profile/amira.salama/viz/WOWW92025BinaryParameter/WOWW9BinaryParams) to my Dashboard
