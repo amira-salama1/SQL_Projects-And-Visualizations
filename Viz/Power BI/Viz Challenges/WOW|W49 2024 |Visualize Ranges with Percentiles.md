@@ -3,7 +3,7 @@
 
 What is awesome about this Viz:
 * Within a glance you can see the Out of "Normal" Range Sugar level thanks to the Reference lines added if Constant (Higher & Lower range) or the Percentiles.
-* It had some intrinsic logic in the Ranges shading, it took a bit of time to get it right!
+* Regarding formatting & color, It had some intrinsic logic in the Ranges shading, it took a bit of time to get it right!
 
 
   
