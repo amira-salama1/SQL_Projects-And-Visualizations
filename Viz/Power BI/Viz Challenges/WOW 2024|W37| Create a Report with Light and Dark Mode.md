@@ -1,4 +1,4 @@
-WOW Challenge:
+[WOW](https://workout-wednesday.com/pbi-2024-w37/) Challenge:
 
 Create a Report with Light and Dark Mode
 
