@@ -1,7 +1,7 @@
 [WOW](https://workout-wednesday.com/pbi-2024-w37/) Challenge:
 
 What's awesome about this Viz:
-- The use of booknarks in Power BI to ulter view between Dark & Light mode
+- The use of bookmarks in Power BI to ulter view between Dark & Light mode
 
 Create a Report with Light and Dark Mode
 
