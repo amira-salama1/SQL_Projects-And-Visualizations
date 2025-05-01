@@ -2,6 +2,7 @@
 
 What's awesome about this Viz:
 - The use of bookmarks in Power BI to ulter view between Dark & Light mode
+- This Dashboard uses a Table for the Fonts, Backgrounds, etc... that feeds the Modes selected
 
 Create a Report with Light and Dark Mode
 
