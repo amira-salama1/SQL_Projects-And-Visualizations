@@ -4,4 +4,6 @@ What's Awesome about this Challenge:
 * It's simplicity, really no complicated logic is applied
 * Being able to see/drill down to the details without the limitation of a fixed table or tooltip using Dynamic Zone visibility.
 
+[Link](https://public.tableau.com/app/profile/amira.salama/viz/WOW2025W18CabyouDrilltoDetail/WOW2025W18) to my Dashboard
+
   
