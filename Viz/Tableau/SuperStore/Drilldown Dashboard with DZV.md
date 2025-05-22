@@ -1,6 +1,6 @@
 Drilldown Dashboard with Dynamic Zone Visibility
 
-This Dashboard is inspired by : Andy Kriebel's Dashboard [Drill Down Dashboard | Next-Level Tableau](https://public.tableau.com/app/profile/andy.kriebel/viz/DrillDownDashboardNext-LevelTableau/DrillDown) with a few changeds that I've done
+This Dashboard is inspired by : Andy Kriebel's Dashboard [Drill Down Dashboard | Next-Level Tableau](https://public.tableau.com/app/profile/andy.kriebel/viz/DrillDownDashboardNext-LevelTableau/DrillDown) with a few changes that I've done.
 
 
 What's Awesome about this Viz:
