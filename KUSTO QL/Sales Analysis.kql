@@ -1,0 +1,10 @@
+Using https://kusto.azure.com/clusters/help/databases/ContosoSales
+
+
+      //Getting Highest Sales by State
+        SalesFact
+        | join kind = inner (Customers) on  CustomerKey
+        | project SalesAmount, DateKey, TotalCost ,CustomerKey,  FullName = strcat(FirstName, " ", LastName), StateProvinceName
+        | where StateProvinceName == 'Washington'
+        | summarize TotalSales = sum(SalesAmount) by FullName
+        | sort by TotalSales desc
