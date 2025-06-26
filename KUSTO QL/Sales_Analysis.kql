@@ -1,7 +1,7 @@
 Using https://kusto.azure.com/clusters/help/databases/ContosoSales
 
 
-      //Getting Highest Sales by State
+      //Getting Highest Sales by State & joining to the Customers Table
         SalesFact
         | join kind = inner (Customers) on  CustomerKey
         | project SalesAmount, DateKey, TotalCost ,CustomerKey,  FullName = strcat(FirstName, " ", LastName), StateProvinceName
