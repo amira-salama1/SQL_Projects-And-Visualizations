@@ -13,6 +13,7 @@ Also, has some details sheet about the Segmentations' logic and recommended step
 The approach is to divide the dataset of customers into 5 categories using the percentile function in Power BI.
 
 The segmentation includes:
+
 1-Champions (sciring the highest valuee in the RFM analysis)
 
  ![image](https://github.com/user-attachments/assets/d491fce3-dc53-4115-a049-1d9475c6dbaa)
