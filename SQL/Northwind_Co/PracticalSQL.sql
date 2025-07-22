@@ -37,7 +37,7 @@ group by ContactTitle
 order by 2 desc;
 
 -------------------------------------------------------------------------------------------
-/*We’d like to show, for each product, the associated Supplier. 
+/*Weâ€™d like to show, for each product, the associated Supplier. 
 Show the ProductID, ProductName, and the CompanyName of the Supplier. Sort by ProductID.*/
 
 Select 
@@ -65,7 +65,7 @@ order by 1
 
 
 --------------------------------------------------------------------------------------------
-/*we’d like to see the total number of products in each category. Sort the results by the total number of products, 
+/*weâ€™d like to see the total number of products in each category. Sort the results by the total number of products, 
 in descending order. */
 
 Select
