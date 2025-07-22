@@ -324,7 +324,7 @@ from supplier_countries
 	full outer join customerCountries
 	on supplier_countries.Country = customerCountries.Country;
 -----------------------------------------------------------------------------------------------
---Looking at the Orders table—we’d like to show details for each order that was the first in that particular country, ordered by OrderID.
+--Looking at the Orders tableÂ—weÂ’d like to show details for each order that was the first in that particular country, ordered by OrderID.
 --So, we need one row per ShipCountry, and CustomerID, OrderID, and OrderDate should be of the first order from that country.
 
 ;with t as 
