@@ -14,7 +14,8 @@ The approach is to divide the dataset of customers into 5 categories using the p
 
 The segmentation includes:
 
-1-Champions (sciring the highest valuee in the RFM analysis)
+1-Champions (scoring the highest valuee in the RFM analysis)
+2- 
 
  ![image](https://github.com/user-attachments/assets/d491fce3-dc53-4115-a049-1d9475c6dbaa)
 
