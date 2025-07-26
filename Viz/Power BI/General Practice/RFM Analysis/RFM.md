@@ -15,5 +15,7 @@ The approach is to divide the dataset of customers into categories using the per
 The segmentation divides the dataset into 5 partitions and scores each customer aggregated measures ( Recency, Frequency & Monetary) 
 highest frequency & monetary gets a high score of 5 and opposite for recency.
 
+However according to the Analysis approach, this analysis does not do segmentation based on customer behavior, but segments the customers according to a financial poit of view.
+
  ![image](https://github.com/user-attachments/assets/d491fce3-dc53-4115-a049-1d9475c6dbaa)
 
