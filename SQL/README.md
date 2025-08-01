@@ -1,1 +1,1 @@
-This Folder is dedicated to Using SQL in Data Analysis
+This Folder is dedicated to different projects using SQL in Data Analysis
