@@ -1,4 +1,4 @@
-RFM Analysis : tool for identifying an organization’s best customers 
+**RFM Analysis** : tool for identifying an organization’s best customers 
 
 **Recency:**  Number of days since last purchase (least recency)
 
