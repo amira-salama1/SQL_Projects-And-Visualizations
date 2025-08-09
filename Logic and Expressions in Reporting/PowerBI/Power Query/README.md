@@ -1,1 +1,1 @@
-This is a folder dedicated to Pwer Query Exploratory Analysis
+This is a folder dedicated to Power Query Exploratory Analysis
