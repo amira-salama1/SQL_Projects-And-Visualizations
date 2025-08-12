@@ -17,5 +17,5 @@ Sure all the above points, also a trick that was used to constrain Table Ratio (
 [Link](https://public.tableau.com/app/profile/amira.salama/viz/ProfitLossStatement_16965293190250/PLDash?publish=yes) to my Tableau Dashboard
 
 
-Inspiration:
+Inspiration Rosario Dashboard:
 https://public.tableau.com/app/profile/rgauna/viz/ProfitLossStatementWorkbook/ProfitLoss
