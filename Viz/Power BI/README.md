@@ -1,1 +1,1 @@
-A Repo for Power BI Projects & DAX Calculations
+A Repository for Power BI Projects & DAX Calculations
