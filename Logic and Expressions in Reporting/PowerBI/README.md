@@ -1,1 +1,1 @@
-A Folder Dedicated to Logic, Expressions & calculations in Power BI using DAX or Power Query
+A Folder Dedicated to the creation of Logic, Expressions & calculations in Power BI using DAX or Power Query
