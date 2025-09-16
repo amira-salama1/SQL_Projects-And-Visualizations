@@ -4,7 +4,7 @@ Using AdventureWorksDW (link: https://learn.microsoft.com/en-us/sql/samples/adve
 
 #### 1st step :
 
-We need to Calculate the three Measures: 
+We need to Calculate the following Measures: 
 * **Last Purchase Date** = LASTDATE(FactInternetSales[OrderDate])
 * **Recency** = DATEDIFF([Last Purchase Date], CALCULATE ( MAX ( FactInternetSales[OrderDate] ), ALLSELECTED ( FactInternetSales ), FactInternetSales[OrderDate] <= NOW() ) +1, DAY)
 * **Frequency** = DISTINCTCOUNT(FactInternetSales[SalesOrderNumber])
