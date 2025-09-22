@@ -2,7 +2,7 @@ This file is listing the RFM calculations in Power BI
 
 Using AdventureWorksDW (link: https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=tsql )
 
-#### 1st step : Creatinng Basic Calculations
+#### 1st step : Creating Basic Calculations
 
 We need to Calculate the following Measures: 
 
