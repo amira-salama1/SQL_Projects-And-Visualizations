@@ -28,3 +28,6 @@ We need to Calculate the following Measures:
           "Frequency", [Freq],
           "LastDate", CALCULATE ( MAX ( FactInternetSales[OrderDate] ), ALLSELECTED ( FactInternetSales ), FactInternetSales[OrderDate] <= NOW() ) +1
       )
+
+   Notes:
+   * The summary table is like a Pivot table with the Customer is the Dimension (row level detail one customer per row) and the RFM are the metrics for each row/Customer
