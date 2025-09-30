@@ -26,7 +26,8 @@ We need to Calculate the following Measures:
           "Recency", [Recency], 
           "Monetary", [Monetary value] ,
           "Frequency", [Freq],
-          "LastDate", CALCULATE ( MAX ( FactInternetSales[OrderDate] ), ALLSELECTED ( FactInternetSales ), FactInternetSales[OrderDate] <= NOW() ) +1
+          "LastDate", CALCULATE ( MAX ( FactInternetSales[OrderDate] ), 
+                          ALLSELECTED ( FactInternetSales ), FactInternetSales[OrderDate] <= NOW() ) +1
       )
 
    Notes:
