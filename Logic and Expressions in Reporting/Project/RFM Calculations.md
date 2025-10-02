@@ -31,4 +31,4 @@ We need to Calculate the following Measures:
       )
 
    Notes:
-   * The summary table is like a Pivot table with the Customer as the Dimension (row level detail one customer per row) and the RFM are the metrics for each row/Customer
+   * The summary table acts as a Pivot table with the Customer as the Dimension (row level detail one customer per row) and the RFM are the metrics for each row/Customer
