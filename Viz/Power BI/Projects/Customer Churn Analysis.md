@@ -1,1 +1,1 @@
-This file is dedicated to analysing Customer churn
+Analysing Customer churn project, following Datacamp's walkthrough 
