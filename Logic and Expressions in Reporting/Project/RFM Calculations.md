@@ -13,7 +13,7 @@ We need to Calculate the following Measures:
               SUM(FactInternetSales[SalesAmount]), 
               ALLEXCEPT(FactInternetSales, FactInternetSales[CustomerKey]) )
 
-  Notes:
+  **Notes**:
   *  Last Purchase Date : is the Universal Last date given in the Dataset & it acts as a pivot point to calculate how recent were the purchases
 
 #### 2nd step : Building the Summary Table
