@@ -1,4 +1,4 @@
-This file is listing the RFM calculations in Power BI  
+This file is listing the RFM calculations in Power BI
 
 Using AdventureWorksDW (link: https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=tsql )
 
