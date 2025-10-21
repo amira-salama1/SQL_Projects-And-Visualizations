@@ -1,1 +1,1 @@
-Creating a folder for Data Analytic projects
+Creating a folder for Data Analysis projects
