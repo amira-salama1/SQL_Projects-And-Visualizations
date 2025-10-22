@@ -1,1 +1,0 @@
-Analysing Customer churn project, following Datacamp's walkthrough 
