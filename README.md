@@ -1,4 +1,4 @@
-# SQL_Projects
+# SQL_Projects & Visualizations
 
 This Repository is dedicated to Exploratory Data Analysis with SQL, Dashboarding & Visualizations of Challenges & Projects posted online.
 
