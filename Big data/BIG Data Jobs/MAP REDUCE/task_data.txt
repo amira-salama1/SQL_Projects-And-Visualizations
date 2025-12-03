@@ -1,0 +1,53 @@
+San Diego,71.8,1425976,West,USA
+Dallas,77.2,1343573,South,USA
+Los Angeles,72.3,3979576,West,USA
+Toronto,45.3,2930000,Ontario,Canada
+San Jose,66.1,1026659,West,USA
+London,55.7,8987426,Greater London,UK
+Berlin,48.7,3692000,Berlin,Germany
+Tokyo,63.2,13929286,Tokyo,Japan
+Philadelphia,60.3,1584064,Northeast,USA
+Melbourne,61.9,5078193,Victoria,Australia
+Philadelphia,61.8,1584064,Northeast,USA
+San Antonio,77.5,1547253,South,USA
+Vancouver,54.2,675218,British Columbia,Canada
+Chicago,40.5,2693976,Midwest,USA
+Shanghai,64.4,24183300,Shanghai,China
+Paris,54.2,2148327,Ile-de-France,France
+New York,55.6,8336817,Northeast,USA
+San Jose,64.9,1026659,West,USA
+San Diego,69.4,1425976,West,USA
+Houston,79.6,2320268,South,USA
+Houston,78.9,2320268,South,USA
+San Antonio,78.3,1547253,South,USA
+Los Angeles,71.1,3979576,West,USA
+Tokyo,61.1,13929286,Tokyo,Japan
+Vancouver,50.5,675218,British Columbia,Canada
+Sydney,72.4,5312163,New South Wales,Australia
+New York,56.8,8336817,Northeast,USA
+Shanghai,65.5,24183300,Shanghai,China
+Tokyo,62.6,13929286,Tokyo,Japan
+New York,54.1,8336817,Northeast,USA
+Los Angeles,73.5,3979576,West,USA
+San Antonio,77.5,1547253,South,USA
+Melbourne,60.8,5078193,Victoria,Australia
+San Diego,70.2,1425976,West,USA
+Sydney,71.6,5312163,New South Wales,Australia
+Melbourne,62.4,5078193,Victoria,Australia
+Dallas,75.5,1343573,South,USA
+Shanghai,63.2,24183300,Shanghai,China
+Phoenix,88.9,1680992,West,USA
+Paris,55.6,2148327,Ile-de-France,France
+Philadelphia,62.5,1584064,Northeast,USA
+Vancouver,52.8,675218,British Columbia,Canada
+Beijing,57.9,21540000,Beijing,China
+Chicago,41.8,2693976,Midwest,USA
+San Jose,63.4,1026659,West,USA
+Houston,80.2,2320268,South,USA
+Sydney,70.3,5312163,New South Wales,Australia
+Chicago,42.1,2693976,Midwest,USA
+Dallas,76.1,1343573,South,USA
+San Antonio,76.1,1547253,South,USA
+Berlin,47.9,3692000,Berlin,Germany
+Paris,53.1,2148327,Ile-de-France,France
+Berlin,46.3,3692000,Berlin,Germany
