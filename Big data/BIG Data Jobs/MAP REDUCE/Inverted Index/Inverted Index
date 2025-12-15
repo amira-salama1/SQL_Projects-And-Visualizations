@@ -1,0 +1,115 @@
+package org.apache.hadoop.examples;
+
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.StringTokenizer;
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Job;
+import org.apache.hadoop.mapreduce.Mapper;
+import org.apache.hadoop.mapreduce.Reducer;
+import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
+import org.apache.hadoop.mapreduce.lib.input.FileSplit;
+import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
+
+/**
+ * Implements the Inverted Index with Frequency MapReduce job.
+ * Input: Multiple text files.
+ * Output: <Word, DocumentID1:Count, DocumentID2:Count, ...>
+ */
+public class InvertedIndex {
+
+    // --- 1. MAPPER CLASS ---
+    // No logic changes needed here. It emits (Word, DocID) for every occurrence.
+    public static class IndexMapper extends Mapper<Object, Text, Text, Text> {
+
+        private final Text word = new Text();
+        private final Text docId = new Text();
+
+        @Override
+        protected void setup(Context context) throws IOException, InterruptedException {
+            FileSplit fileSplit = (FileSplit) context.getInputSplit();
+            String fileName = fileSplit.getPath().getName();
+            docId.set(fileName);
+        }
+
+        @Override
+        protected void map(Object key, Text value, Context context) throws IOException, InterruptedException {
+            String line = value.toString().toLowerCase();
+            // Replace non-alphanumeric characters with a space
+            line = line.replaceAll("[^a-zA-Z0-9\\s]", " ");
+            StringTokenizer tokenizer = new StringTokenizer(line);
+
+            while (tokenizer.hasMoreTokens()) {
+                String token = tokenizer.nextToken().trim();
+                if (!token.isEmpty()) {
+                    word.set(token);
+                    context.write(word, docId);
+                }
+            }
+        }
+    }
+
+    // --- 2. REDUCER CLASS ---
+    // UPDATED: Now counts occurrences instead of just listing unique docs
+    public static class IndexReducer extends Reducer<Text, Text, Text, Text> {
+
+        private final Text result = new Text();
+
+        @Override
+        protected void reduce(Text key, Iterable<Text> values, Context context) throws IOException, InterruptedException {
+
+            // Map to store DocumentID -> Frequency Count
+            Map<String, Integer> docCounts = new HashMap<>();
+
+            // 1. Iterate over all incoming DocIDs for this word
+            for (Text val : values) {
+                String docName = val.toString();
+                // If docName exists, increment count; otherwise set to 1
+                docCounts.put(docName, docCounts.getOrDefault(docName, 0) + 1);
+            }
+
+            // 2. Build the output string
+            StringBuilder postingList = new StringBuilder();
+            boolean first = true;
+
+            // Iterate over the map to format output as "DocID:Count"
+            for (Map.Entry<String, Integer> entry : docCounts.entrySet()) {
+                if (!first) {
+                    postingList.append(", ");
+                }
+                // Appends "doc1.txt:3"
+                postingList.append(entry.getKey()).append(":").append(entry.getValue());
+                first = false;
+            }
+
+            result.set(postingList.toString());
+            context.write(key, result);
+        }
+    }
+
+    // --- 3. DRIVER (MAIN) CLASS ---
+    public static void main(String[] args) throws Exception {
+        if (args.length != 2) {
+            System.err.println("Usage: InvertedIndex <input-path> <output-dir>");
+            System.exit(-1);
+        }
+
+        Configuration conf = new Configuration();
+        Job job = Job.getInstance(conf, "Inverted Index with Frequency");
+
+        job.setJarByClass(InvertedIndex.class);
+        job.setMapperClass(IndexMapper.class);
+        job.setReducerClass(IndexReducer.class);
+
+        job.setOutputKeyClass(Text.class);
+        job.setOutputValueClass(Text.class);
+
+        FileInputFormat.addInputPath(job, new Path(args[0]));
+        FileOutputFormat.setOutputPath(job, new Path(args[1]));
+
+        System.exit(job.waitForCompletion(true) ? 0 : 1);
+    }
+}
