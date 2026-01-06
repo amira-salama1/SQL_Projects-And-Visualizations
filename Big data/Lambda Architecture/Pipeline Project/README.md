@@ -1,1 +1,1 @@
-This is a data pipeline project that has two layers (Batch & Streaming ) 
+This is a data Big Data pipeline that establishes two complementary layers: Batch (for historical, complex analysis) and Stream (for real-time monitoring and alerting )
