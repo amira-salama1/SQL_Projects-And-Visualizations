@@ -4,8 +4,8 @@
  
   o	Apache Flink (PyFlink) processes: 
 
-   	Tumbling Window Average
+     - Tumbling Window Average
 
-   	Heavy Traffic Alerts
+     - Heavy Traffic Alerts
 
 o	Outputs real-time alerts for monitoring.
