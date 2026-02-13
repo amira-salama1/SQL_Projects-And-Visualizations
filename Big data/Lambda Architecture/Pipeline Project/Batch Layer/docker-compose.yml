@@ -1,0 +1,13 @@
+services:
+  spark-notebook:
+    image: jupyter/pyspark-notebook:latest
+    container_name: spark_lab
+    ports:
+      - "8888:8888"  # Jupyter Lab port
+      - "4040:4040"  # Spark UI port
+    volumes:
+      - ./work:/home/jovyan/work  # Maps your local folder to the container
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - GRANT_SUDO=yes
+    command: start-notebook.sh --NotebookApp.token='' --NotebookApp.password='' # Disables password for easy access
