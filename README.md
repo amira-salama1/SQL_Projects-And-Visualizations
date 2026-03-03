@@ -1,5 +1,9 @@
-# SQL_Projects & Visualizations
+# Projects & Visualizations
 
-This Repository is dedicated to Exploratory Data Analysis with SQL, Dashboarding & Visualizations of Challenges & Projects posted online.
+This Repository is dedicated to 
+  * Exploratory Data Analysis with SQL
+  * Dashboarding & Visualizations of Challenges & Projects posted online.
+  * Python Projects And/Or Training
+  * Reporting Tools Logic & Training
 
 Exploratory data analysis [(EDA)](https://www.ibm.com/think/topics/exploratory-data-analysis#:~:text=Exploratory%20data%20analysis%20(EDA)%20is,often%20employing%20data%20visualization%20methods.) is used by data professionals to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods
